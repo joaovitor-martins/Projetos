@@ -1,0 +1,13 @@
+Olá, pessoal! 
+
+Faremos uma entrega em conjunto para as disciplinas de Machine Learning e Redes Neurais. Assim, submetam as mesmas entregas nas duas disciplinas. A nota será refletida em ambas.
+
+Nossa demanda é prever as vendas de equipamentos da JD. A hipótese é que o aumento da produção agrícola influencia as vendas. Portanto, nesta primeira fase vamos prever a safra de um produto agrícola.
+
+Sprint #2:
+
+Façam a predição da safra 2022/23 a partir dos dados coletados na Sprint #1 e vejam se sua predição bate com a estimativa fornecida. Vocês devem construir ao menos 4 modelos, 2 baseados em modelos de regressão vistos na matéria de Machine Learning e 2 baseados em Redes Neurais. Quais as conclusões ao comparar os modelos e o valor “esperado"?
+
+Entrega:
+
+Entregar um jupyter notebook com os códigos executados e suas análises/conclusões em células markdown.

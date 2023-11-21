@@ -1,0 +1,14 @@
+Olá, pessoal! 
+
+Faremos uma entrega em conjunto para as disciplinas de Machine Learning e Redes Neurais. Assim, submetam as mesmas entregas nas duas disciplinas. A nota será refletida em ambas.
+
+No último semestre fizemos modelos de predição de produção agrícola, como pano de fundo para estimar vendas de equipamentos ou prazos de entrega deles pela JD. 
+
+Sprint #3:
+
+Nesta sprint vocês devem entregar o modelo final sendo desenvolvido para a JD. Ou seja, não necessariamente o modelo que construímos no último semestre é o modelo final “encomendado” pela empresa. Aqui quero ver o desenvolvimento e avaliação do modelo oficial a ser entregue pelo seu grupo no Challenge. Lembrem de testar modelos baseados em técnicas de Machine Learning e de Redes Neurais! Quero ver os dados utilizados, a utilidade do modelo (para o que serve? quem utilizaria? quando?), a forma e o processo de modelagem escolhidos, e comparação de métricas de acordo com algoritmos distintos sendo avaliados. 
+
+Entrega:
+
+Entregar um jupyter notebook com os códigos executados e suas análises/conclusões em células markdown.
+Lembrar de listar nome e RMs dos participantes do grupo.
